@@ -1,0 +1,15 @@
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\bin\Debug\net5.0\reversestring.exe
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\bin\Debug\net5.0\reversestring.deps.json
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\bin\Debug\net5.0\reversestring.runtimeconfig.json
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\bin\Debug\net5.0\reversestring.runtimeconfig.dev.json
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\bin\Debug\net5.0\reversestring.dll
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\bin\Debug\net5.0\ref\reversestring.dll
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\bin\Debug\net5.0\reversestring.pdb
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\obj\Debug\net5.0\reversestring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\obj\Debug\net5.0\reversestring.AssemblyInfoInputs.cache
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\obj\Debug\net5.0\reversestring.AssemblyInfo.cs
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\obj\Debug\net5.0\reversestring.csproj.CoreCompileInputs.cache
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\obj\Debug\net5.0\reversestring.dll
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\obj\Debug\net5.0\ref\reversestring.dll
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\obj\Debug\net5.0\reversestring.pdb
+C:\Users\becca\OneDrive\Documentos\Visual Studio 2019\projetos\reversestring\obj\Debug\net5.0\reversestring.genruntimeconfig.cache
